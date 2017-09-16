@@ -1,0 +1,55 @@
+.titulo{
+  color: #33658a !important;
+  background-color: #F5F3EA !important;
+  /*font-size: 16px !important;*/
+
+}
+
+.industrial{
+  background-color: #fdc966;
+}
+
+.bg-primary{
+  color: #F5F3EA !important;
+  background-color: #33658a !important;
+  /*font-family: 'Calibri' !important;*/
+  /*font-size: 8px !important;*/
+}
+
+.panel-body{
+  background-color: #F5F3EA;
+}
+
+.table{
+  background-color: #F5F3EA;
+  /*font-family: 'LibreBas' !important;*/
+  font-size: 14px !important;
+}
+
+th{
+  text-align: center;
+}
+
+.panel-footer{
+  color: #33658a !important;
+  background-color: #F5F3EA !important;
+  /*font-family: 'Calibri' !important;*/
+  /*font-size: 18px !important;*/
+
+}
+
+td .fc-sat { background-color: #fdc966 !important; }
+td .fc-sun { background-color: #fdc966 !important;  }
+
+.vertical-center{
+  min-height: 100%; /*para navegadores que no soportan unidad vh*/
+  min-height: 100vh; /*estas dos lineas son contadas como una*/
+  display: flex;
+  align-items: center;
+}
+
+#container{
+  /*background-color: #66bd84;
+  background-color: #33658a;*/
+  background-color: #fdc966;
+}
